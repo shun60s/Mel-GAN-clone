@@ -1,5 +1,8 @@
 /__pycahe__/
 /old/
+/logs/
+/wavs/
+/wavout/
 *.bat
 *.pyc
 *.md~

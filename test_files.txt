@@ -1,0 +1,10 @@
+./wavs/sc09/test/Zero_0c40e715_nohash_0.wav
+./wavs/sc09/test/One_0c40e715_nohash_0.wav
+./wavs/sc09/test/Two_0c40e715_nohash_0.wav
+./wavs/sc09/test/Three_0c40e715_nohash_0.wav
+./wavs/sc09/test/Four_0c40e715_nohash_0.wav
+./wavs/sc09/test/Five_0d53e045_nohash_0.wav
+./wavs/sc09/test/Six_0d53e045_nohash_0.wav
+./wavs/sc09/test/Seven_0c40e715_nohash_0.wav
+./wavs/sc09/test/Eight_0c40e715_nohash_0.wav
+./wavs/sc09/test/Nine_0d53e045_nohash_0.wav

@@ -1,0 +1,10 @@
+./wavs/sc09/valid/Zero_fde2dee7_nohash_1.wav
+./wavs/sc09/valid/One_fd32732a_nohash_1.wav
+./wavs/sc09/valid/Two_fd32732a_nohash_2.wav
+./wavs/sc09/valid/Three_fde2dee7_nohash_1.wav
+./wavs/sc09/valid/Four_fd32732a_nohash_2.wav
+./wavs/sc09/valid/Five_fde2dee7_nohash_0.wav
+./wavs/sc09/valid/Six_fc94edb0_nohash_2.wav
+./wavs/sc09/valid/Seven_fd32732a_nohash_1.wav
+./wavs/sc09/valid/Eight_fde2dee7_nohash_0.wav
+./wavs/sc09/valid/Nine_fc94edb0_nohash_0.wav

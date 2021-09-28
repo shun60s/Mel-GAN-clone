@@ -6,7 +6,7 @@ This is cloned from  [descriptinc/melgan-neurips ](https://github.com/descriptin
 
 ## experiment  
 
-This uses dataset sc09 (digits speech) of [chrisdonahue/wavegan](https://github.com/chrisdonahue/wavegan).   
+This uses datasets sc09 (digits speech) of [chrisdonahue/wavegan](https://github.com/chrisdonahue/wavegan).   
 
 ## License  
 

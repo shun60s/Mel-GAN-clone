@@ -6,6 +6,8 @@ This is cloned from  [descriptinc/melgan-neurips ](https://github.com/descriptin
 
 ## experiment  
 
+Following script is to practice Mel GAN on colab.   
+[MelGAN_colab_practice1_sc09.ipynb](https://colab.research.google.com/github/shun60s/Mel-GAN-clone/blob/master/MelGAN_colab_practice1_sc09.ipynb)  
 This uses datasets sc09 (digits speech) of [chrisdonahue/wavegan](https://github.com/chrisdonahue/wavegan).   
 
 ## License  
